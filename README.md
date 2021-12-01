@@ -52,12 +52,3 @@ REACT_APP_RPC_URL_1=http://0.0.0.0:7545
 REACT_APP_RPC_URL_4=https://rinkeby.infura.io/v3/INFURA_KEY
 
 ```
-
-
-## 💰 Sponsor this project
-
-Donations in ETH or BTC are welcome 
-
-**ETH** `0x2Bed009b2E94aFB55dE81450178D8a3D33D72Aa3`
-
-**BTC** `bc1qt0375wyn8a73yvcfcqvksnewlrlcuajcg7rhw8`
